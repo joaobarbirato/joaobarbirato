@@ -1,4 +1,20 @@
-### Hi there 👋
+### João Barbirato 
+
+🔭 Cientista de Dados
+
+:notebook: Bacharel e Mestre em Ciência da Computação pela UFSCar
+
+---
+
+#### Áreas de conhecimento
+- Aprendizado de Máquina 
+- Processamento de Linguagem Natural (PLN)
+- Grafos de Conhecimento e Extração de informação
+
+#### Perfis
+- [LinkedIn](https://www.linkedin.com/in/joao-gabriel-melo-barbirato-575299125)
+- [Lattes](http://lattes.cnpq.br/7014175217181346)
+
 
 <!--
 **joaobarbirato/joaobarbirato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
